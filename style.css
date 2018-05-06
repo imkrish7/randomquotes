@@ -1,0 +1,44 @@
+@import url('http://getbootstrap.com/dist/css/bootstrap.css');
+html,
+body,
+.container-table {
+ height: 100%;
+}
+
+.container-table {
+ display: table;
+ /* background: blue; */
+}
+
+.vertical-center-row {
+ display: table-cell;
+ vertical-align: middle;
+}
+
+.fa {
+ padding: 20px;
+ font-size: 30px;
+ width: 50px;
+ text-align: center;
+ text-decoration: none;
+}
+
+.fa-twitter {
+ background: #55ACEE;
+ color: white;
+}
+
+.fa-facebook {
+ background: #3B5998;
+ color: white;
+}
+
+.fa-tumblr {
+ background: rgb(212, 164, 7);
+ color: white;
+}
+
+.fa-quora {
+ background: rgb(212, 164, 7);
+ color: white;
+}
